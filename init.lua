@@ -697,6 +697,7 @@ require('lazy').setup({
             },
           },
         },
+        intelephense = {},
       }
 
       -- Ensure the servers and tools above are installed
